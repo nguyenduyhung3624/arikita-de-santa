@@ -20,6 +20,8 @@ import {
   SiGooglemeet,
   SiBootstrap,
   SiGithubcopilot,
+  SiVuedotjs,
+  SiNodedotjs,
 } from "react-icons/si";
 import { TbBrandReact } from "react-icons/tb";
 
@@ -28,7 +30,9 @@ const frameworks = [
   { icon: <SiTypescript className="text-blue-500" />, name: "TypeScript" },
   { icon: <FaReact className="text-sky-400" />, name: "React" },
   { icon: <FaAngular className="text-red-500" />, name: "Angular" },
+  { icon: <SiVuedotjs className="text-green-500" />, name: "Vue.js" },
   { icon: <SiNextdotjs className="text-white" />, name: "Next.js" },
+  { icon: <SiNodedotjs className="text-green-700" />, name: "Node.js" },
   { icon: <SiTailwindcss className="text-cyan-400" />, name: "TailwindCSS" },
   { icon: <SiAntdesign className="text-blue-400" />, name: "Ant Design" },
   { icon: <TbBrandReact className="text-pink-400" />, name: "TanStack Query" },
