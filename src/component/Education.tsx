@@ -16,7 +16,7 @@ const Education = () => {
             FPT Polytechnic College
           </h3>
           <p className="text-lg text-gray-300">Major: Frontend Developer</p>
-          <span className="text-md text-gray-400">2022 - Present</span>
+          <span className="text-md text-gray-400">2022 - 2025</span>
         </div>
       </div>
     </section>
